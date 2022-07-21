@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/dcc012-lab-bitstream/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/bitStream.dir/main.cpp.o -c /workspaces/dcc012-lab-bitstream/main.cpp",
+  "file": "/workspaces/dcc012-lab-bitstream/main.cpp"
+},
+{
+  "directory": "/workspaces/dcc012-lab-bitstream/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/bitStream.dir/bitstream.cpp.o -c /workspaces/dcc012-lab-bitstream/bitstream.cpp",
+  "file": "/workspaces/dcc012-lab-bitstream/bitstream.cpp"
+}
+]

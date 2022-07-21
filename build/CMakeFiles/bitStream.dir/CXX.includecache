@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/dcc012-lab-bitstream/bitstream.cpp
+bitstream.h
+/workspaces/dcc012-lab-bitstream/bitstream.h
+iostream
+-
+
+/workspaces/dcc012-lab-bitstream/bitstream.h
+cstdint
+-
+cstring
+-
+cassert
+-
+fstream
+-
+

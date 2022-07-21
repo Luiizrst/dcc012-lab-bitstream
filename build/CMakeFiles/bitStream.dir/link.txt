@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/bitStream.dir/main.cpp.o CMakeFiles/bitStream.dir/bitstream.cpp.o  -o bitStream 
